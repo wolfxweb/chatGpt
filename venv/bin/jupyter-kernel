@@ -1,4 +1,4 @@
-#!/Users/wolfx/Documents/python/chatGpt/venv/bin/python
+#!/Users/wolfx/Documents/python/chatGpt/chatGpt/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
